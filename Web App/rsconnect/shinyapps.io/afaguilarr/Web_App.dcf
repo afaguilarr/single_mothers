@@ -1,0 +1,12 @@
+name: Web_App
+title: Web_App
+username:
+account: afaguilarr
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 417262
+bundleId: 1570041
+url: https://afaguilarr.shinyapps.io/Web_App/
+when: 1536122615.50487
+asMultiple: FALSE
+asStatic: FALSE
